@@ -1958,5 +1958,18 @@
       {"name":"miclock2.app.js","url":"clock-mixed.js"},
       {"name":"miclock2.img","url":"clock-mixed-icon.js","evaluate":true}
     ]
+  },
+  { "id": "7chname",
+    "name": "My app's human readable name",
+    "shortName":"Short Name",
+    "icon": "app.png",
+    "version":"0.01",
+    "description": "A detailed description of my great app",
+    "tags": "",
+    "readme": "README.md",
+    "storage": [
+      {"name":"7chname.app.js","url":"app.js"},
+      {"name":"7chname.img","url":"app-icon.js","evaluate":true}
+    ]
   }
 ]
